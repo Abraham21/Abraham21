@@ -17,11 +17,11 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/Abraham21/Abraham21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham21&hide=C++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Abraham21/Abraham21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abraham21&hide=C++&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abraham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abraham21&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abraham's GitHub Stats" />
 </a>
 
 <!--
