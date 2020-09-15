@@ -17,7 +17,7 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://www.abeyep.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham21&hide=c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham21&hide=c%2B%2B,TeX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://www.abeyep.com/">
