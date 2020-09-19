@@ -23,9 +23,8 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 -->
 
 <a href="https://www.abeyep.com/">
-  <img align="center" src="https://camo.githubusercontent.com/a840f7bbd9e9112cd4f74aee4a517fdc65cdf65e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4162726168616d323126686964653d632532422532422c6361636865267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d6339636163632669636f6e5f636f6c6f723d3262626338612662675f636f6c6f723d316431663231" />
+  <img align="center" src="most-used-github-langs.svg" />
 </a>
-
 
 <a href="https://www.abeyep.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abraham21&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abraham's GitHub Stats" />
