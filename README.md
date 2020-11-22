@@ -11,6 +11,7 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 **Website:** [abeyep.com](https://www.abeyep.com/)
 - [LinkedIn](https://www.linkedin.com/in/ayepremian/)
 - [Instagram](https://www.instagram.com/theabeman/)
+- [Medium](https://abeyepremian.medium.com/)
 
 👉🏻👉🏻📧 Sign up for my [newsletter](https://tinyletter.com/abeyep).
 
