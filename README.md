@@ -8,7 +8,8 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 
 ## 🌏 Find Me
 
-**Website:** [abeyep.com](https://www.abeyep.com/)
+**Personal Website:** [abeyep.com](https://www.abeyep.com/)\
+**Company Website:** [blockmotive.com](https://blockmotive.com/)
 - [LinkedIn](https://www.linkedin.com/in/ayepremian/)
 - [Twitter](https://twitter.com/abeyepremian)
 - [Instagram](https://www.instagram.com/theabeman/)
