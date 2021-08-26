@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abraham
 
-I'm a **software engineer** at **Disney** with a passion for **full stack** engineering and automation.
+I'm the **Founder & CEO** of [**BlockMotive**](https://blockmotive.com/), a company focused on innovating in the web3 and NFT technology space. Previously, I was a **Software Engineer** at **Disney** where I built magical guest experience technologies for our Parks & Resorts.
 
 ## ✉️ Contact Me
 
@@ -10,6 +10,7 @@ Feel free to contact me by email at abeyepremian@gmail.com or via [LinkedIn](htt
 
 **Website:** [abeyep.com](https://www.abeyep.com/)
 - [LinkedIn](https://www.linkedin.com/in/ayepremian/)
+- [Twitter](https://twitter.com/abeyepremian)
 - [Instagram](https://www.instagram.com/theabeman/)
 - [Medium](https://abeyepremian.medium.com/)
 
